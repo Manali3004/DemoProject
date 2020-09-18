@@ -5,5 +5,6 @@ public class SignInPage {
 	
 	public void signIn(){
 		System.out.println("I am in sign in page");
+		System.out.println("updated info");
 	}
 }
